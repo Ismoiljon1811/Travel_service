@@ -1,0 +1,3 @@
+Men bu loyihamni Najot ta'lim o'quv markazidagi 6-oy imtixonidan o'tish uchun qilganmna. Bu djangoning boshlang'ich ma'lumotlaridan foydalanib qilingan loyiha. Ya'na men bu loyihani ham backend qismini ham frontend qismini qilganman. (Buning ichida men html, css va bootstrapdan keng miqiyosda foydalanganman). Bu mening eng kichik loyihalarimdan birdir. Qolgan ya'ni pastdagi boshqa loyihalarim bundan ham yaxshiroq.
+
+Loyiha Travel, ya'ni sayohat haqida u 3 xil yo'nalishda va 3 xil reyslar bilan uchadi yani relationshiplar ulangan (xuddi categorylar va productlar singari). 
